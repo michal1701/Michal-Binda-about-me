@@ -22,7 +22,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/AdixPlaysGames/AdixPlaysGames/blob/main/sources/languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/michal1701/MichalBInda/blob/main/Sources/languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp;
