@@ -1,4 +1,4 @@
-### <picture> <img align="center" src = "https://github.com/AdixPlaysGames/AdixPlaysGames/blob/main/sources/entry.gif?raw=true" width = 3000px>  </picture>
+### <picture> <img align="center" src = "https://github.com/michal1701/MichalBInda/blob/main/Sources/Profile2.gif?raw=true" width = 3000px>  </picture>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
