@@ -14,8 +14,8 @@
 - 👨‍💼: You can visit [my LinkedIn profile](https://www.linkedin.com/in/michal-binda/).
 <br>
   
-##  Contact with me by Gmail
-	<a href="mailto:mich.binda@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+##  <p> Contact with me by Gmail
+	<a href="mailto:mich.binda@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> </p>
 
 
 
