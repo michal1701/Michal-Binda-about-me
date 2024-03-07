@@ -11,12 +11,12 @@
 - :technologist: I love using DataScience mechanics as a solution for every problem.
 - :student: I’m currently learning Computer Science and Machine Learning.
 - :nerd_face: I am interested in innovative technologies and Data Science. I am satisfied with searching for the most effective solutions for any kind of cases.
-- 👨‍💼: You can visit [my LinkedIn profile](www.linkedin.com/in/michal-binda/).
+- 👨‍💼: You can visit [my LinkedIn profile](https://www.linkedin.com/in/michal-binda/).
 <br>
   
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact with me
 <p align="left">
-	<a href="mailto:adrian.jozef.zareba@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:mich.binda@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 
