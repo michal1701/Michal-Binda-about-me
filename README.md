@@ -13,11 +13,6 @@
 - :nerd_face: I am interested in innovative technologies and Data Science. I am satisfied with searching for the most effective solutions for any kind of cases.
 - 👨‍💼: You can visit [my LinkedIn profile](https://www.linkedin.com/in/michal-binda/).
 <br>
-  
-##  Contact with me by Gmail
-	<p> <a href="mailto:mich.binda@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> </p>
-
-
 
 ## 🛠️ My Skills
 
